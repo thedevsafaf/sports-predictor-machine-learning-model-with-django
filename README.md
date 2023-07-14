@@ -1,6 +1,12 @@
 # sports-predictor-machine-learning-model-with-django
 A Machine Learning Model which is using in a Django web application to predict the sports by providing information such as gender, height, and age. 
 
+Snapshots:
+
+![snap1](https://github.com/thedevsafaf/sports-predictor-machine-learning-model-with-django/assets/85129653/d499d991-4602-4bc1-9beb-fbf851d77cb2)
+
+![snap2](https://github.com/thedevsafaf/sports-predictor-machine-learning-model-with-django/assets/85129653/6138265c-5a97-4131-9bcf-18a081fddb32)
+
 First clone the repository from Github and switch to the new directory:
 
 $ git clone git@github.com/USERNAME/<project_name>.git
